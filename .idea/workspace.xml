@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b186357-9a06-4cd3-b3a8-f27d3a20d07b" name="Default Changelist" comment="" />
+    <list default="true" id="1b186357-9a06-4cd3-b3a8-f27d3a20d07b" name="Default Changelist" comment="Create test task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pKOY0UmBGxXDRpBfj7i04TMTDl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Main.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,12 +64,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614928360019</updated>
-      <workItem from="1614928362568" duration="3300000" />
+      <workItem from="1614928362568" duration="3593000" />
     </task>
+    <task id="LOCAL-00001" summary="Create test task">
+      <created>1614932235448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614932235448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create test task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create test task" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614928789413">
@@ -76,10 +92,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="843" y="320" width="490" height="574" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1614930994836" />
-    <state x="739" y="287" key="FileChooserDialogImpl" timestamp="1614928762017">
+    <state x="739" y="287" key="FileChooserDialogImpl" timestamp="1614932311842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614928762017" />
+    <state x="739" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614932311842" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1614932381588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614932381588" />
     <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1614931010964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -144,6 +164,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614931010751" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614932390297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614932390297" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614932296457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614932296457" />
     <state x="676" y="340" key="jetbrains.nodejs.interpreters-dialog" timestamp="1614928764078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
